@@ -2,6 +2,10 @@
   * Laboratorio 4  
   * Autor: Lucio Agostinho Rocha
   * Ultima atualizacao: 04/04/2023
+  *
+  * Alunos:
+  * Anderson Soares da Silva 2150875
+  * Mariana Goncalves Rodrigues 2151014
   */
 import java.io.*;
 import java.nio.file.Path;
