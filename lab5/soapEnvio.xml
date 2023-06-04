@@ -1,0 +1,8 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://cliente.bean.master.sigep.bsb.correios.com.br/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <ns:consultaCEP>
+            <cep>86812507</cep>
+        </ns:consultaCEP>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>Response SOAP Message:
