@@ -1,3 +1,9 @@
+<!--  * Lab05: Sistema P2P
+ * 
+ * Autor: Mariana Gonçalves Rodrigues
+ * 		  Anderson Soares da Silva
+ * Ultima atualizacao: 04/06/2023 -->
+
 <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://cliente.bean.master.sigep.bsb.correios.com.br/">
     <SOAP-ENV:Header/>
     <SOAP-ENV:Body>
