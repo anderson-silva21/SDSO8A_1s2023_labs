@@ -1,8 +1,9 @@
 /**
  * Lab05: Sistema P2P
  * 
- * Autor: Lucio A. Rocha
- * Ultima atualizacao: 22/05/2023
+ * Autor: Anderson Soares da Silva
+ * Autor: Mariana Gonçalves Rodrigues
+ * Ultima atualizacao: 10/06/2023
  * 
  * Referencias: 
  * https://docs.oracle.com/javase/tutorial/essential/io
