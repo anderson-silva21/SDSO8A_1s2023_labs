@@ -1,7 +1,7 @@
 /**
  * Lab05: Sistema P2P
  * 
- * Autor: Lucio A. Rocha
+ * Autor: Anderson e Mariana
  * Ultima atualizacao: 22/05/2023
  * 
  * Referencias: 
